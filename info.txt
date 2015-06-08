@@ -1,0 +1,8 @@
+Jag har en transaktion, t ex från att jag handlat
+på ICA. Transaktionen har datum, belopp och text.
+Detta hanteras i modellen Transaktion.
+
+Transaktionen har även en kategori och en subkategori.
+Kategorin, t ex "mat", hanteras som en foreign key till
+modellen Kategori, som även har ett gäng sökord associerade
+till sig.
