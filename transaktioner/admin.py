@@ -1,3 +1,7 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import Transaktion, Kategori, Sokord
+
+admin.site.register(Transaktion)
+admin.site.register(Kategori)
+admin.site.register(Sokord)
