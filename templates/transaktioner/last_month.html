@@ -39,7 +39,7 @@
 			<tbody>
 		{% for rad in last_month_list %}
 				<tr>
-					<td><a href="test">{{ rad.reskontradatum|date:"Y-m-d" }}</a></td>
+					<td><a href="{% url 'transaktioner:last_month'%}?id={{ rad.pk }}">{{ rad.reskontradatum|date:"Y-m-d" }}</a></td>
 					<td>{{ rad.transaktionsdatum|date:"Y-m-d" }}</td>
 					<td>{{ rad.text }}</td>
 					<td>{{ rad.belopp }}</td>
