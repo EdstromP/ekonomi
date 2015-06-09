@@ -1,0 +1,179 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+
+
+<HEAD>
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+
+</HEAD>
+
+
+
+<body>
+<FORM name="excelaccounttransactions" action="/bb/seip/servlet/UASipko?amp;random=406645" method="post">
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<TR>
+ 
+<TD align="left" colspan="1">Kontoform:</TD>
+<TD  align="left" colspan="1">Allkonto</TD>
+<td align="left">&nbsp;</td> 
+<TD align="left">Clearingnummer:</TD>
+<TD  align="left">6547</TD>
+	
+</TR>
+</TABLE>
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<tr>
+	
+	<td align="left">Saldo:</td> 
+
+<td align="right">7 563,81</td>
+<td align="left">&nbsp;</td> 
+	
+</tr>
+
+
+
+
+
+	
+	
+</TABLE>
+<br>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<tr><td width="585" align="left" colspan="5">Konto: 489 947 468&nbsp;&nbsp;Period: 2012-03-01 till 2012-03-31&nbsp;&nbsp;Transtyp:&nbsp;Alla&nbsp;&nbsp;Belopp: Alla&nbsp; Antal transaktioner:&nbsp;106</td></tr>
+<tr><td width="585" align="left" colspan="5">&nbsp;</td></tr>
+</TABLE>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+ <TR><TD class="SHBHeader" style='font-weight: bold;'>Reskontradatum</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader" style='font-weight: bold;'>Transaktionsdatum</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader" style='font-weight: bold;'>Text</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD align="right" class="SHBHeader" style='font-weight: bold;'>Belopp</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">emblem</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-300,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-16,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">APOTEKET ILLER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-109,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HS 17125948</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-5 380,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">UNIONEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-225,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">465537367</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-3 051,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">476005957</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 859,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">465521177</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-536,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MIN 15.52 031</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-400,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Sweden_vending</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-14,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 984,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Sweden_vending</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-8,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Sweden_vending</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-18,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Sweden_vending</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-8,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MCDONALD S</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-52,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-109,89</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MIKAEL FERM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">1 700,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">AGRIA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-618,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ALFA KASSAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-297,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SOLID FÖRSÄK</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-49,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-566,64</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-115,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-55,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">PIZZERIA VESUV</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-65,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">GREKISK TAVERN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-174,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-263,13</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-255,53</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">STALLBACKSREST</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-45,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SVENSKA KENNEL</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-370,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TELE2 SVERIGE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-441,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CANAL DIGITAL</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-503,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HI3G ACCESS AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-612,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MÄLARENERGI AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-3 635,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">VÄSTERÅS STAD</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 154,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">AB SVENSK BILP</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-300,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">FOLKSAM ÖMSESI</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-150,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IPS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IPS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-295,24</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LÖN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">19 786,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LÖN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">13 963,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-139,96</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-155,59</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Qstar Ransta</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-617,99</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-20,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">1133 KONTANTEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-300,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BURGER KING</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-164,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BOKIA VESTERAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-88,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SQUEEZED UP JU</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-136,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPARKSTOCKHOLM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-12,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BILTEMA VESTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 252,90</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CHILI WOK</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-198,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BAUHAUS VESTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-362,95</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-367,85</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">K D ERIKSLUND</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-49,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-87,06</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-306,89</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Överf Mobil</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">1 000,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TEAM SPORTIA 3</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-299,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KAHLS THE &amp; KA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-178,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-192,32</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Överf Mobil</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">3 000,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-45,70</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MIN 15.52 031</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-400,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-378,76</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SPOTIFY IDAFER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-99,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-122,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-534,19</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-63,70</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SYSTEMBOLAGET</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-335,10</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MCDONALD S STE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-134,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-201,43</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CLAS OHLSON AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-88,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-29,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-237,60</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">JC BUTIKEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-299,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">H M 473 KOPING</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-174,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-77,30</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Överf Internet</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-500,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Överf Internet</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-500,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BANKOMAT 10.21</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">WARDSHUSET RON</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-85,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">RESTAURANG TZA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-194,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SPICY HOT KALL</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-75,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-89,80</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">JENSENS BÖFHUS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-692,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MIN 15.47 031</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-400,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-150,68</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KD ERIKSLUNDS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-51,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">PIZZERIA VESUV</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-130,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-110,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-800,04</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BAUHAUS VESTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-5 549,39</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KICKS VASTERAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-147,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SKOPUNKTEN 202</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-179,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DESIGN AND COU</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-65,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CHANTALS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-164,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CLAS OHLSON AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-207,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BILIA VASTERAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-165,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 501,18</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-02-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPARKSTOCKHOLM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-14,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-02-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">JENSENS BÖFHUS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-480,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MIN  6.05 031</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-500,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LF</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-418,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2012-03-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LF MOTOR</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-410,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2012-03-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2012-03-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TRYGG-HANSA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-682,00</TD></TR>
+
+</TABLE>
+
+</FORM>
+</body>
+</HTML>

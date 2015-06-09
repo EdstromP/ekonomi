@@ -1,0 +1,230 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+
+
+<HEAD>
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+
+</HEAD>
+
+
+
+<body>
+<FORM name="excelaccounttransactions" action="/bb/seip/servlet/ipko?amp;random=892406" method="post">
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<TR>
+ 
+<TD align="left" colspan="1">Kontoform:</TD>
+<TD  align="left" colspan="1">Allkonto</TD>
+<td align="left">&nbsp;</td> 
+<TD align="left">Clearingnummer:</TD>
+<TD  align="left">6547</TD>
+	
+</TR>
+</TABLE>
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<tr>
+	
+	<td align="left">Saldo:</td> 
+
+<td align="right">9 852,83</td>
+<td align="left">&nbsp;</td> 
+	
+</tr>
+
+
+
+
+
+	
+	
+</TABLE>
+<br>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<tr><td width="585" align="left" colspan="5">Konto: 489 947 468&nbsp;&nbsp;Period: 2014-12-01 till 2014-12-31&nbsp;&nbsp;Transtyp:&nbsp;Alla&nbsp;&nbsp;Belopp: Alla&nbsp; Antal transaktioner:&nbsp;157</td></tr>
+<tr><td width="585" align="left" colspan="5">&nbsp;</td></tr>
+</TABLE>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+ <TR><TD class="SHBHeader" style='font-weight: bold;'>Reskontradatum</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader" style='font-weight: bold;'>Transaktionsdatum</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader" style='font-weight: bold;'>Text</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD align="right" class="SHBHeader" style='font-weight: bold;'>Belopp</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">&nbsp;</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Prel STATOIL</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-64,57</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">&nbsp;</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Prel SUSHI YA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-110,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">&nbsp;</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Prel CITY GRO</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-619,58</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">&nbsp;</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Prel Q-PARK A</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-30,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">&nbsp;</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Prel AKADEMIB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-29,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-51,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SAHAND LIVS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-110,01</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LOGARANGSBADET</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 950,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HS 17125948</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-2 790,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">UNIONEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-235,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CANAL DIGITAL</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-568,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MÄLARENERGI AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-3 317,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KOMMUNALARBETA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-105,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">465537367</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-2 547,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">617315027</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 672,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">465521177</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-283,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-153,96</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">STATOIL 1-2-3</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-208,40</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-330,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">APOTEK HJ#RTAT</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-77,50</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SKOPUNKTEN 202</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-348,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark Punkt</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-25,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">APOTEK HJ#RTAT</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-75,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">JENSENS BOFHUS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-230,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LINDEX 384</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-248,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-125,16</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">EIES RESTAURAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-70,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-261,40</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-698,90</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 747,74</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CURA APOTEKET</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-66,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">GRNA WOKEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-75,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TAXI KURIR VES</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-130,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">PITCHERS VESTE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-128,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">AGRIA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-492,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ALFA KASSAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-151,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SOLID FÖRSÄK</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-89,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Sparande</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Sparande Enya</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IPS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IPS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Fond</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-100,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BILTEMA SWEDEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-76,80</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-6,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BILTEMA SWEDEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-10,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">JULA AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-111,80</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Jysk Erikslund</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-412,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">APOTEKET HUMLA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-113,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LANDSTINGET VE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-150,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TOMMY SAND</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">980,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">För saaben</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">1 500,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">FKASSA  1980</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">2 592,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LÖN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">31 484,25</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-69,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MCDONALDS SKRA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-69,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">GODISGRODAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-81,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">EIES RESTAURAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-145,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-238,58</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ASBY KOTT OCH</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-17,73</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ASBY KOTT O VI</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-384,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Cubus 47</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-357,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IKEA VESTERAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-224,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-211,08</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-125,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SKULTUNA BLOMS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-238,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BARNBDR 1980</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">1 050,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BANKOMAT 17.23</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-100,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-254,81</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Överf Mobil</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">4 000,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SMILE V#STER$S</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 450,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BAUHAUS VESTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-99,95</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">PLANTAGEN B#CK</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-299,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">GODISGRODAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-54,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-689,42</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-120,90</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">GLADA OXEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-60,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-3,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CITY GROSS V#S</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-185,30</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-15,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-15,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-40,66</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-266,70</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-194,90</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">WWW.FRAMCIGARR</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-375,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Jysk Erikslund</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-140,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-134,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">PIZZERIA VERON</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-220,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-6,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-380,78</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TACK!!!</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">60,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Tandläkaren</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">1 450,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Klarna AB/Nord</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-561,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SYSTEMBOLAGET</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-29,90</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">WORLD OF BEER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-180,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SKÅL!</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">1 300,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">WWW.HAIRANDSHO</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-269,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">PETTERSSONS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-50,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Optimalprint</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-158,73</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BANKOMAT  8.31</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-100,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-195,79</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CO 153 V#STER$</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-148,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CITY GROSS V#S</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-305,27</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-196,42</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">EIES RESTAURAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-150,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">JULA AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-179,70</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-38,08</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-24,90</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">NETFLIX.COM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-79,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-280,15</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-130,10</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-192,22</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-461,25</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-145,10</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">APOTEK HJ#RTAT</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-19,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-418,17</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KD APOTEK</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-66,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LINDEX 384</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-218,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BANKOMAT 15.11</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-100,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">COOP KONSUM OX</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-28,95</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark Punkt</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-37,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark Punkt</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-13,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MCDONALDS SKRA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-69,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BANKOMAT 13.29</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-100,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LF MOTOR</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">67,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-108,60</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">JENSENS BOFHUS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-236,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-4,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-408,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">STATOIL 1-2-3</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-141,28</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Landstinget Va</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-20,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MEDIA MARKT</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-477,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BABYPROFFSEN V</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-299,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KAPPAHL 198</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-229,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">H M 425 VASTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-894,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-29,16</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-23,70</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BRYNOLF BAGARE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-88,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-28,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA NARA RABY</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-39,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-10,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-207,59</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-11-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Rusta V{ster}s</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-254,30</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HI3G ACCESS AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-118,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KLARNA AB /NOR</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-330,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LÄNSFÖRSÄKRING</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 185,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TELE2 SVERIGE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-473,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TELE2 OCH COMV</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-576,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HS 17125948</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 161,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HS 17125948</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-2 790,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TELIA AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 314,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LF</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-483,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LF MOTOR</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-303,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LF MOTOR</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-235,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-11-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">465537367</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-2 556,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2014-11-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">617315027</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 679,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2014-11-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2014-12-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">465521177</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-286,00</TD></TR>
+
+</TABLE>
+
+</FORM>
+</body>
+</HTML>

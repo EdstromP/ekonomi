@@ -1,0 +1,185 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+
+
+<HEAD>
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+
+</HEAD>
+
+
+
+<body>
+<FORM name="excelaccounttransactions" action="/bb/seip/servlet/UASipko?amp;random=470602" method="post">
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<TR>
+ 
+<TD align="left" colspan="1">Kontoform:</TD>
+<TD  align="left" colspan="1">Allkonto</TD>
+<td align="left">&nbsp;</td> 
+<TD align="left">Clearingnummer:</TD>
+<TD  align="left">6547</TD>
+	
+</TR>
+</TABLE>
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<tr>
+	
+	<td align="left">Saldo:</td> 
+
+<td align="right">379,35</td>
+<td align="left">&nbsp;</td> 
+	
+</tr>
+
+
+
+
+
+	
+	
+</TABLE>
+<br>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<tr><td width="585" align="left" colspan="5">Konto: 489 947 468&nbsp;&nbsp;Period: 2013-05-01 till 2013-05-31&nbsp;&nbsp;Transtyp:&nbsp;Alla&nbsp;&nbsp;Belopp: Alla&nbsp; Antal transaktioner:&nbsp;112</td></tr>
+<tr><td width="585" align="left" colspan="5">&nbsp;</td></tr>
+</TABLE>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+ <TR><TD class="SHBHeader" style='font-weight: bold;'>Reskontradatum</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader" style='font-weight: bold;'>Transaktionsdatum</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader" style='font-weight: bold;'>Text</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD align="right" class="SHBHeader" style='font-weight: bold;'>Belopp</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">PIZZERIA VESUV</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-295,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAX I VESTERAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-174,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-27,80</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CANAL DIGITAL</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-478,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MÄLARENERGI AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-3 117,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CENTRALA STUDI</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 713,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TELIA AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 314,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">UNIONEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-225,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">465537367</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-2 773,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">476005957</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 723,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">465521177</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-397,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-63,50</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-303,76</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">från jenny</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">300,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">FÖRENADE LIV G</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-368,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HI3G ACCESS AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-856,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">FORDONSSKATT T</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-425,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">AB SVENSK BILP</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-300,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TELE2 SVERIGE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-391,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HS 17125948</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-5 207,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Klarna AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 200,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">PIZZA HUT 221</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-296,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ASTRID LINDGRE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-48,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ASTRID LINDGRE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-140,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ASTRID LINDGRE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-35,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-30,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-790,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ASTRID LINDGRE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-100,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ALFA KASSAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-297,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SOLID FÖRSÄK</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-69,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ASTRID LINDGRE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-45,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ASTRID LINDGRE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-34,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MONTE CARLO</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-274,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ASTRID LINDGRE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-330,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">WILLYS SURAHAM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-64,90</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ASTRID LINDGRE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-176,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ASTRID LINDGRE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-18,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">AGRIA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-607,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IPS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IPS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">FKASSA  1980</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">7 776,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-308,47</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TGR</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-60,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Överf Mobil</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 000,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LÖN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">25 069,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ALBREKTS GULD</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-168,50</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HALSOKRAFT</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-182,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CLAS OHLSON AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-179,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">GRAFFITI CAFE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-205,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-850,20</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BAUHAUS VESTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-99,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">WILLYS SURAHAM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-23,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-402,97</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-55,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-58,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-139,68</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BAUHAUS VESTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-241,60</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-206,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KICKS VASTERAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-78,62</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-132,30</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BARNBDR 1980</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">1 050,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-111,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LUNDH</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">920,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-15</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-51,80</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">WILLYS SURAHAM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-111,85</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 184,84</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">FUJICOLOR SV F</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-235,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Nordea Finans</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-399,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SPOTIFY SPOTIF</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-99,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IKEA VESTERAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-424,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BILTEMA SWEDEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-218,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OPTIMALPRINT S</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-603,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MEKONOMEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-97,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-271,39</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">COOP FORUM VAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-188,95</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IKEA VESTERAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-22,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HEMMAKVALL VAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-103,92</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LUNDH</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">600,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">JOCKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">165,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IKEA VESTERAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 059,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-119,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CITY GROSS VAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-39,95</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-28,80</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KAPPAHL 198</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-298,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LINDEX 384</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-516,50</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">H M 425 VASTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-188,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">RADIOTJÄNST I</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-519,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 037,08</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MALTAVLAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-764,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">JESSICAS BLOMM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-65,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-64,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BAUHAUS VESTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-319,17</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-611,64</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ARKEN ZOO ERIK</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 208,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BRYNOLF BAGARE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-42,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-291,28</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-74,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CITY GROSS VAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-978,89</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">PIZZA HUT 216</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-218,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BAUHAUS VESTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-152,80</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BILTEMA VESTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-382,60</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-04-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CITY GROSS VAS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-805,22</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-74,10</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KOMMUNALARBETA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-160,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KOMMUNALARBETA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-160,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KOMMUNALARBETA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-160,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HI3G ACCESS AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-666,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LOOPIA AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-99,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TELE2 SVERIGE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-572,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TRYGG-HANSA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-713,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2013-05-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LF</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-485,00</TD></TR>
+
+</TABLE>
+
+</FORM>
+</body>
+</HTML>

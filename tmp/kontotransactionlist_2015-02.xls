@@ -1,0 +1,193 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+
+
+<HEAD>
+
+
+
+
+
+
+
+
+
+ 
+
+
+			
+
+</HEAD>
+
+
+
+<body>
+<FORM name="excelaccounttransactions" action="/bb/seip/servlet/ipko?amp;random=483316" method="post">
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<TR>
+ 
+<TD align="left" colspan="1">Kontoform:</TD>
+<TD  align="left" colspan="1">Allkonto</TD>
+<td align="left">&nbsp;</td> 
+<TD align="left">Clearingnummer:</TD>
+<TD  align="left">6547</TD>
+	
+</TR>
+</TABLE>
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<tr>
+	
+	<td align="left">Saldo:</td> 
+
+<td align="right">1 042,30</td>
+<td align="left">&nbsp;</td> 
+	
+</tr>
+
+
+
+
+
+	
+	
+</TABLE>
+<br>
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+<tr><td width="585" align="left" colspan="5">Konto: 489 947 468&nbsp;&nbsp;Period: 2015-02-01 till 2015-02-28&nbsp;&nbsp;Transtyp:&nbsp;Alla&nbsp;&nbsp;Belopp: Alla&nbsp; Antal transaktioner:&nbsp;120</td></tr>
+<tr><td width="585" align="left" colspan="5">&nbsp;</td></tr>
+</TABLE>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="585" >
+ <TR><TD class="SHBHeader" style='font-weight: bold;'>Reskontradatum</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader" style='font-weight: bold;'>Transaktionsdatum</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD class="SHBHeader" style='font-weight: bold;'>Text</TD><TD width="5" class="SHBHeader">&nbsp;</TD><TD align="right" class="SHBHeader" style='font-weight: bold;'>Belopp</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-03-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">465537367</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-2 529,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-03-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">617315027</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 660,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-28</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-03-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">465521177</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-273,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-340,40</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">COOP KONSUM OX</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-22,95</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">H M 497 VASTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-108,50</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CITY GROSS V#S</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-289,11</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">OKQ8</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-150,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SPOTIFY Spotif</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-99,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TOYS R US - 32</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 658,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CANAL DIGITAL</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-568,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MÄLARENERGI AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-4 319,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CENTRALA STUDI</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 765,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KOMMUNALARBETA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-105,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-27</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">UNIONEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-235,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BELLBOX ERIKSL</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-438,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-207,74</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-10,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-2,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">AGRIA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-492,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Sparande</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Sparande Enya</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Fond</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-100,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-26</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">FKASSA  1980</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">11 149,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CERVERA VESTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-249,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BR-Leksaker, F</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-199,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 639,98</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IPS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">IPS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-25</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LÖN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">30 328,09</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-24</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">WEBHALLEN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-119,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MCDONALD S H#L</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-76,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-199,51</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-371,51</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KICKS V#STER$S</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-918,20</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-261,13</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">TOYS R US - 32</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-514,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-172,80</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-483,90</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-22</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">EIES RESTAURAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-260,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-301,85</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">H M 425 VASTER</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-248,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Landstinget Va</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-8,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-21</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CITY GROSS V#S</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-31,50</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-23</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-222,85</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-15,90</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ST1 V#STER$S,</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,02</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">PIZZERIA VERON</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-65,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LEKIA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-97,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LINDEX/19</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-138,50</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ARKEN ZOO ERIK</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-378,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-20</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BARNBDR 1980</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">1 050,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-19</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-158,36</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-264,32</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-245,14</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-18</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-93,20</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-17</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-108,80</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">Lizz</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 080,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-265,53</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark Punkt</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-37,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">CITY GROSS V#S</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-511,87</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark Skrapan</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-31,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-265,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SPICY HOT STUR</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-200,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">APOTEK HJ#RTAT</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-224,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-14</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">APOTEK HJ#RTAT</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-49,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-225,29</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">RESTAURANG TZA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-353,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-7,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MEDIA MARKT</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-3 439,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">JENSENS BOFHUS</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-210,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">WILLYS SURAHAM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-28,29</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-143,70</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-13</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-142,50</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KD APOTEK</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-281,75</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HALLBERGS GULD</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 111,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-12</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-260,09</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-773,72</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-11</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">FKASSA  1980</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">1 439,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-01-16</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BK ERIKSLUND</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-63,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-08</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">EIES RESTAURAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-145,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-10</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">RADIOTJÄNST I</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-519,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-159,80</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MCDONALD S ERI</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-61,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">KD APOTEK</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-55,50</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">EIES RESTAURAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-145,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">STATOIL 1-2-3</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-389,46</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-06</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">GODISGRODAN</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-124,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">NETFLIX.COM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-79,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-09</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-07</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-135,40</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-24,90</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-193,78</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-141,40</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark Klippan</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-23,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark Ostermal</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-75,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 027,65</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark AB</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-15,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-70,85</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-05</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-19,10</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SYSTRARNA ERIC</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-79,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HARMONIQ</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-552,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-04</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SYSTRARNA ERIC</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-10,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SKULTUNA MESSI</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-179,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">GOOGLE *MARKET</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-39,68</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-229,88</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-03</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SPICY HOT K#LL</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-168,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-01-29</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">AKADEMIBOKHAND</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-159,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-01-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-188,74</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-01-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">SYSTRARNA ERIC</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-89,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-01-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">QPark Punkt</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-25,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-01</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">DIN-X SKULTUNA</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-187,52</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-01-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">ICA SUPERMARKE</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-127,95</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-01-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">566 Carlings V</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-700,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-01-30</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">MAXI ICA STORM</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-636,65</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">HS 17125948</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-1 161,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LF</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-483,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LF MOTOR</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-274,00</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">LF MOTOR</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-213,00</TD></TR>
+<TR><TD height="15" nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-02-02</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2339007964</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">3 834,18</TD></TR>
+<TR BGCOLOR="#F0F0F0"><TD height="15" nowrap="nowrap" align="left">2015-01-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">2015-01-31</TD><TD>&nbsp;</TD><TD nowrap="nowrap" align="left">BANKOMAT 23.24</TD><TD>&nbsp;</TD><TD align="right" nowrap="nowrap">-300,00</TD></TR>
+
+</TABLE>
+
+</FORM>
+</body>
+</HTML>

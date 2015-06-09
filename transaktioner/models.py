@@ -1,12 +1,15 @@
 from django.db import models
 
 class Transaktion(models.Model):
-    reskontradatum = models.DateField()
+    reskontradatum = models.DateField(null=True)
     transaktionsdatum = models.DateField()
     text = models.CharField(max_length=50)
     belopp = models.FloatField()
     kommentar = models.TextField(max_length=500, blank=True)
     kategori = models.ForeignKey('Kategori', null=True)
+    kalla = models.CharField(max_length=100, blank=True)
+    radnr = models.IntegerField(null=True)
+    importdatum = models.DateField(null=True)
 
     def __str__(self):
         return '%s %f' % (self.text, self.belopp)

@@ -1,0 +1,54 @@
+{% load staticfiles %}
+<html>
+	<head>
+		<title>Transaktioner senaste månaden</title>
+		<link rel="stylesheet" type="text/css" href="{% static "transaktioner/style.css" %}">
+		<script type="text/javascript" src="{% static "transaktioner/jquery-latest.js" %}"></script>
+		<script type="text/javascript" src="{% static "transaktioner/jquery.tablesorter.js" %}"></script>
+		<script type="text/javascript">
+
+			$(function()
+				{
+					$("#transaktioner").tablesorter({sortList:[[0,1]], widgets: ['zebra']});
+
+					$('tr').click( function() {
+						window.location = $(this).find('a').attr('href');
+					}).hover( function() {
+						$(this).toggleClass('hover');
+					});
+				}
+			);		
+
+
+		</script>
+	</head>
+	<body>
+
+		<div id="container">
+		<table id="transaktioner" class="tablesorter">
+			<thead>
+				<tr>
+					<th width="100">Reskontradatum</th>
+					<th width="100">Transaktionsdatum</th>
+					<th>Text</th>
+					<th>Belopp</th>
+					<th>Kommentar</th>
+					<th>Kategori</th>
+				</tr>
+			</thead>
+			<tbody>
+		{% for rad in last_month_list %}
+				<tr>
+					<td><a href="test">{{ rad.reskontradatum|date:"Y-m-d" }}</a></td>
+					<td>{{ rad.transaktionsdatum|date:"Y-m-d" }}</td>
+					<td>{{ rad.text }}</td>
+					<td>{{ rad.belopp }}</td>
+					<td>{{ rad.kommentar }}</td>
+					<td>{{ rad.kategori }}</td>
+				</tr>
+		{% endfor %}
+			</tbody>
+		</table>
+		</div>
+	</body>
+</html>
