@@ -31,7 +31,7 @@
 					<th width="100">Reskontradatum</th>
 					<th width="100">Transaktionsdatum</th>
 					<th>Text</th>
-					<th>Belopp</th>
+					<th>Belopp = {{ summa }}</th>
 					<th>Kommentar</th>
 					<th>Kategori</th>
 				</tr>
@@ -49,6 +49,8 @@
 		{% endfor %}
 			</tbody>
 		</table>
+
+		Summa = {{ summa }}
 		</div>
 	</body>
 </html>

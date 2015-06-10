@@ -15,15 +15,24 @@ class Transaktion(models.Model):
         return '%s %f' % (self.text, self.belopp)
 
 class Kategori(models.Model):
-    namn = models.CharField(max_length=30)
+    namn = models.CharField(max_length=30, unique=True)
     kommentar = models.TextField(max_length=500, blank=True)
     
     def __str__(self):
         return '%s' % self.namn
 
-class Sokord(models.Model):
-    sokord = models.CharField(max_length=20)
+class Underkategori(models.Model):
+    namn = models.CharField(max_length=30)
+    kommentar = models.TextField(max_length=500, blank=True)
     kategori = models.ForeignKey('Kategori')
+
+    def __str__(self):
+        return '%s' % self.namn
+
+class Sokord(models.Model):
+    sokord = models.CharField(max_length=20, unique=True)
+    kategori = models.ForeignKey('Kategori')
+    underkategori = models.ForeignKey('Underkategori', null=True)
 
     def __str__(self):
         return '%s: %s' % (self.sokord, self.kategori)
