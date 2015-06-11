@@ -1,6 +1,52 @@
+a, a:visited {
+	color: #000000;
+}
+
+div#top {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 20px;
+	background-color: #8dbdd8;
+	margin: 0 0 0 0px;
+	padding: 0 0 0 20px;
+}
+
+div#top h1 {
+	font-family: verdana;
+	font-size: 10pt;
+	margin: 0;
+	padding: 0;
+}
+	
+
+div#sidebar {
+	font-family: arial;
+	margin: 20px 0 0 0;
+	padding: 0px;
+	width: 20%;
+	float: left;
+}
+
+div#sidebar h1 {
+	margin: 0;
+	padding: 4px 4px 4px 20px;
+	font-size: 8pt;
+	width: 80%;
+	background-color: #E6EEEE;
+	border: 1px solid #FFF;
+}
+
+div#sidebar li {
+	margin-left: 50px;
+	font-size: 8pt;
+}
+
 div#container {
 	width: 80%;
-	margin: 0 auto 0 auto;
+	margin: 30px auto 0 auto;
+	float: left;
 }
 
 table.tablesorter {
@@ -45,3 +91,13 @@ table.tablesorter tbody tr.hover td {
 table.tablesorter tr.hover {
 }
 
+table.detalj {
+	font-family: verdana;
+	font-size: 10pt;
+}
+
+table.detalj td.rubrik {
+	width: 200px;
+	font-weight: bold;
+
+}

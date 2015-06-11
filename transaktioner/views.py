@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .models import Transaktion
+from .models import Transaktion, Kategori
 from django.db.models import Sum
 from datetime import datetime, timedelta
 from django.views import generic
@@ -34,6 +34,7 @@ class IndexView(generic.ListView):
 
         summa = self.get_queryset().aggregate(Sum('belopp'))['belopp__sum']
         context['summa'] = summa
+        context['kategorier'] = Kategori.objects.all()
         return context
 
 class KategoriView(IndexView):
@@ -61,6 +62,12 @@ class KategoriView(IndexView):
                 Q(kategori__namn=self.kwargs['kategori'])).order_by('-transaktionsdatum')
 
         return query
+
+class DetailView(generic.DetailView):
+    model = Transaktion
+    context_object_name = 'transaktion'
+    template_name = 'transaktioner/detail.html'
+
 
 #    def get_context_data(self, **kwargs):
 #        context = super(IndexView, self).get_context_data(**kwargs)

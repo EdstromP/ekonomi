@@ -1,35 +1,29 @@
+{% extends "transaktioner/base.html" %}
 {% load staticfiles %}
 {% load humanize %}
 
-<html>
-	<head>
-		<title>Transaktioner senaste månaden</title>
-		<link rel="stylesheet" type="text/css" href="{% static "transaktioner/style.css" %}">
-		<script type="text/javascript" src="{% static "transaktioner/jquery-latest.js" %}"></script>
-		<script type="text/javascript" src="{% static "transaktioner/jquery.tablesorter.js" %}"></script>
-		<script type="text/javascript">
+	{% block sidebar %}
 
-			$(function()
-				{
-					$("#transaktioner").tablesorter({sortList:[[0,1]], widgets: ['zebra']});
+	<h1>Kategorier</h1>
 
-				/*	
-					$('tr').click( function() {
-						window.location = $(this).find('a').attr('href');
-					}).hover( function() {
-						$(this).toggleClass('hover');
-					});
-					*/
-				
-				}
-			);		
+	<ul>
+		{% for kategori in kategorier %}
+		<li><a href="{% url 'transaktioner:kategori' kategori=kategori%}">{{kategori}}</a></li>
+		{% endfor %}
+	</ul>
 
+	<h1>Tid</h1>
+	<ul>
+		<li><a href="?dagar=7">En vecka</a></li>
+		<li><a href="?dagar=30">En månad</a></li>
+		<li><a href="?dagar=60">Två månader</a></li>
+	</ul>
 
-		</script>
-	</head>
-	<body>
+	
 
-		<div id="container">
+	{% endblock %}
+
+	{% block content %}
 
 			Datum: {{ test }}
 
@@ -42,23 +36,24 @@
 						<th>Belopp = {{ summa|floatformat|intcomma }}</th>
 						<th>Kommentar</th>
 						<th>Kategori</th>
+						<th>Underkategori</th>
 					</tr>
 				</thead>
 				<tbody>
 			{% for rad in last_month_list %}
 					<tr>
-						<td><a href="{% url 'transaktioner:last_month'%}?id={{ rad.pk }}">{{ rad.reskontradatum|date:"Y-m-d" }}</a></td>
+						<td><a href="{% url 'transaktioner:detail' pk=rad.pk %}">{{ rad.reskontradatum|date:"Y-m-d" }}</a></td>
 						<td>{{ rad.transaktionsdatum|date:"Y-m-d" }}</td>
 						<td>{{ rad.text }}</td>
 						<td>{{ rad.belopp }}</td>
 						<td>{{ rad.kommentar }}</td>
 						<td><a href="{% url 'transaktioner:kategori' kategori=rad.kategori %}">{{rad.kategori}}</a></td>
+						<td>{{ rad.underkategori }}</td>
 					</tr>
 			{% endfor %}
 				</tbody>
 			</table>
 
 			Summa = {{ summa|floatformat|intcomma }} kr
-		</div>
-	</body>
-</html>
+
+	{% endblock %}

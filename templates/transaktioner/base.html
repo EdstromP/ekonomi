@@ -1,0 +1,62 @@
+{% load staticfiles %}
+{% load humanize %}
+
+<html>
+	<head>
+		<title>Transaktioner</title>
+		<link rel="stylesheet" type="text/css" href="{% static "transaktioner/style.css" %}">
+		<script type="text/javascript" src="{% static "transaktioner/jquery-latest.js" %}"></script>
+		<script type="text/javascript" src="{% static "transaktioner/jquery.tablesorter.js" %}"></script>
+		<script type="text/javascript">
+
+			$(function()
+				{
+					$("#transaktioner").tablesorter({sortList:[[0,1]], widgets: ['zebra']});
+
+				/*	
+					$('tr').click( function() {
+						window.location = $(this).find('a').attr('href');
+					}).hover( function() {
+						$(this).toggleClass('hover');
+					});
+					*/
+				
+				}
+			);		
+
+
+		</script>
+	</head>
+	<body>
+		<div id="top">
+			{% block top %}
+			<h1>test</h1>
+			{% endblock %}
+
+			<div id="sidebar">
+
+				{% block sidebar %}
+				<h1>Kategorier</h1>
+
+				<ul>
+					{% for kategori in kategorier %}
+					<li><a href="{% url 'transaktioner:kategori' kategori=kategori%}">{{kategori}}</a></li>
+					{% endfor %}
+				</ul>
+
+				<h1>Tid</h1>
+				<ul>
+					<li><a href="?dagar=7">En vecka</a></li>
+					<li><a href="?dagar=30">En månad</a></li>
+					<li><a href="?dagar=60">Två månader</a></li>
+				</ul>
+
+			{% endblock %}
+
+			</div>
+
+		<div id="container">
+			{% block content %}{% endblock %}
+		</div>
+	</body>
+</html>

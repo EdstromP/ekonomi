@@ -1,0 +1,40 @@
+{% extends "transaktioner/base.html" %}
+
+{% block sidebar %}
+{{ block.super }}
+{% endblock %}
+
+{% block content %}
+
+	<table class="detalj">
+		<tr>
+			<td class="rubrik">Reskontradatum</th>
+			<td>{{ transaktion.reskontradatum }}</td>
+		</tr>
+		<tr>
+			<td class="rubrik">Transaktionsdatum</th>
+			<td>{{ transaktion.transaktionsdatum }}</td>
+		</tr>
+		<tr>
+			<td class="rubrik">Text</th>
+			<td>{{ transaktion.text }}</td>
+		</tr>
+		<tr>
+			<td class="rubrik">Belopp</th>
+			<td>{{ transaktion.belopp }}</td>
+		</tr>
+		<tr>
+			<td class="rubrik">Kommentar</th>
+			<td>{{ transaktion.kommentar }}</td>
+		</tr>
+		<tr>
+			<td class="rubrik">Kategori</th>
+			<td>{{ transaktion.kategori }}</td>
+		</tr>
+		<tr>
+			<td class="rubrik">Underkategori</th>
+			<td>{{ transaktion.underkategori }}</td>
+		</tr>
+	</table>
+
+{% endblock %}
