@@ -5,4 +5,7 @@ urlpatterns = [
     url(r'^last_month$', views.last_month, name="last_month"),
     url(r'^last_month/mat$', views.only_mat, name="bara_mat"),
     url(r'^mat$', views.only_mat, name="bara_mat"),
+    url(r'^$', views.IndexView.as_view(), name="index"),
+    url(r'^kategori/(?P<kategori>[\w-]+)/$', views.KategoriView.as_view(), name="kategori"),
+    #url(r'^kategori/([\w-]+)/$', views.KategoriView.as_view(), name="kategori"),
 ]
