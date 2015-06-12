@@ -3,7 +3,8 @@ from .models import Transaktion, Kategori
 from django.db.models import Sum
 from datetime import datetime, timedelta
 from django.views import generic
-from .forms import DatumForm
+#from django.view.generic.edit import FormView
+from .forms import DatumForm, TransaktionForm
 from django.db.models import Q
 
 class IndexView(generic.ListView):
@@ -67,6 +68,21 @@ class DetailView(generic.DetailView):
     model = Transaktion
     context_object_name = 'transaktion'
     template_name = 'transaktioner/detail.html'
+
+class TransaktionUpdate(generic.edit.UpdateView):
+    model = Transaktion
+    form_class = TransaktionForm
+    template_name = 'transaktioner/uppdatera_transaktion.html'
+#    fields = [
+#            'reskontradatum', 
+#            'transaktionsdatum',
+#            'text', 
+#            'belopp', 
+#            'kommentar',
+#            'kategori'
+#    ]
+
+
 
 
 #    def get_context_data(self, **kwargs):

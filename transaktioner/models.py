@@ -1,4 +1,5 @@
 from django.db import models
+from django.core.urlresolvers import reverse
 
 class Transaktion(models.Model):
     reskontradatum = models.DateField(null=True)
@@ -13,6 +14,9 @@ class Transaktion(models.Model):
 
     def __str__(self):
         return '%s %f' % (self.text, self.belopp)
+
+    def get_absolute_url(self):
+        return reverse('transaktioner:uppdatera', kwargs={'pk': self.pk})
 
 class Kategori(models.Model):
     namn = models.CharField(max_length=30, unique=True)

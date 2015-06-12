@@ -38,6 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.humanize',
+    'crispy_forms',
     'transaktioner',
 )
 
@@ -108,3 +109,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(SETTINGS_PATH, 'static')
+
+CRISPY_TEMPLATE_PACK = 'bootstrap3'

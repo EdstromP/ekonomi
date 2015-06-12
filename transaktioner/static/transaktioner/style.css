@@ -101,3 +101,9 @@ table.detalj td.rubrik {
 	font-weight: bold;
 
 }
+
+form.updateform label {
+	display: inline-block;
+	width: 200px;
+	vertical-align: top;
+}

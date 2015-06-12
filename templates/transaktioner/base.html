@@ -7,11 +7,14 @@
 		<link rel="stylesheet" type="text/css" href="{% static "transaktioner/style.css" %}">
 		<script type="text/javascript" src="{% static "transaktioner/jquery-latest.js" %}"></script>
 		<script type="text/javascript" src="{% static "transaktioner/jquery.tablesorter.js" %}"></script>
+		<script type="text/javascript" src="{% static "transaktioner/jquery-ui.js" %}"></script>
 		<script type="text/javascript">
 
 			$(function()
 				{
 					$("#transaktioner").tablesorter({sortList:[[0,1]], widgets: ['zebra']});
+
+					$( ".datepicker" ).datepicker();
 
 				/*	
 					$('tr').click( function() {
