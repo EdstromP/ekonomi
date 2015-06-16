@@ -1,5 +1,6 @@
 {% load staticfiles %}
 {% load humanize %}
+{% load add_get_parameter %}
 
 <html>
 	<head>
@@ -16,13 +17,11 @@
 
 					$( ".datepicker" ).datepicker();
 
-				/*	
 					$('tr').click( function() {
 						window.location = $(this).find('a').attr('href');
 					}).hover( function() {
 						$(this).toggleClass('hover');
 					});
-					*/
 				
 				}
 			);		
@@ -35,6 +34,7 @@
 			{% block top %}
 			<h1>test</h1>
 			{% endblock %}
+		</div>
 
 			<div id="sidebar">
 
@@ -42,8 +42,9 @@
 				<h1>Kategorier</h1>
 
 				<ul>
+					<li><a href="{% url 'transaktioner:index' %}{% add_get %}">Alla</a></li>
 					{% for kategori in kategorier %}
-					<li><a href="{% url 'transaktioner:kategori' kategori=kategori%}">{{kategori}}</a></li>
+					<li><a href="{% url 'transaktioner:kategori' kategori=kategori%}{% add_get %}">{{kategori}}</a></li>
 					{% endfor %}
 				</ul>
 

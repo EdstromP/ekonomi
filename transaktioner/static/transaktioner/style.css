@@ -22,11 +22,11 @@ div#top h1 {
 	
 
 div#sidebar {
+	float: left;
 	font-family: arial;
 	margin: 20px 0 0 0;
 	padding: 0px;
 	width: 20%;
-	float: left;
 }
 
 div#sidebar h1 {
@@ -44,9 +44,9 @@ div#sidebar li {
 }
 
 div#container {
-	width: 80%;
-	margin: 30px auto 0 auto;
 	float: left;
+	width: 60%;
+	margin: 30px auto 0 auto;
 }
 
 table.tablesorter {

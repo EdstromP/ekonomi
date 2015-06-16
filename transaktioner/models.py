@@ -8,6 +8,7 @@ class Transaktion(models.Model):
     belopp = models.FloatField()
     kommentar = models.TextField(max_length=500, blank=True)
     kategori = models.ForeignKey('Kategori', null=True)
+    underkategori = models.ForeignKey('Underkategori', null=True, blank=True)
     kalla = models.CharField(max_length=100, blank=True)
     radnr = models.IntegerField(null=True)
     importdatum = models.DateField(null=True)
@@ -17,6 +18,14 @@ class Transaktion(models.Model):
 
     def get_absolute_url(self):
         return reverse('transaktioner:uppdatera', kwargs={'pk': self.pk})
+
+    def save(self, *args, **kwargs):
+        if self.kategori != None and self.kategori != '':
+            obj, created = Sokord.objects.update_or_create(sokord=self.text, defaults={"kategori": self.kategori, "underkategori": self.underkategori})
+            
+            Transaktion.objects.all().filter(text=self.text).update(kategori=self.kategori, underkategori=self.underkategori)
+
+        super(Transaktion, self).save(*args, **kwargs)
 
 class Kategori(models.Model):
     namn = models.CharField(max_length=30, unique=True)

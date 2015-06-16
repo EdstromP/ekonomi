@@ -11,6 +11,10 @@ class DatumForm(forms.Form):
 
 class TransaktionForm(forms.ModelForm):
 
+    def __init__(self, *args, **kwargs):
+        super(TransaktionForm, self).__init__(*args, **kwargs)
+        self.fields['underkategori'].required = False
+
     class Meta:
         model = Transaktion
         fields = [
@@ -19,7 +23,8 @@ class TransaktionForm(forms.ModelForm):
                 'text',
                 'belopp',
                 'kommentar',
-                'kategori'
+                'kategori',
+                'underkategori'
         ]
 
         widgets = {
