@@ -23,12 +23,22 @@ class IndexView(generic.ListView):
         except:
             startdatum = None
 
+        try:
+            slutdatum = self.request.GET.get('slutdatum')
+        except:
+            slutdatum = None
+
         if startdatum != None and startdatum != '':
             first_date = startdatum
         else:
             first_date = datetime.today() - timedelta(days=antal_dagar)
 
-        return self.objekt.filter(transaktionsdatum__gte=first_date).order_by('-transaktionsdatum')
+        if slutdatum != None and slutdatum != '':
+            last_date = slutdatum
+        else:
+            last_date = datetime.today()
+
+        return self.objekt.filter(transaktionsdatum__gte=first_date).filter(transaktionsdatum__lte=last_date).order_by('-transaktionsdatum')
 
     def get_context_data(self, **kwargs):
         context = super(IndexView, self).get_context_data(**kwargs)
@@ -36,6 +46,63 @@ class IndexView(generic.ListView):
         summa = self.get_queryset().aggregate(Sum('belopp'))['belopp__sum']
         context['summa'] = summa
         context['kategorier'] = Kategori.objects.all()
+        return context
+
+class StatistikView(generic.ListView):
+    template_name = 'transaktioner/statistik.html'
+    context_object_name = 'statistik_list'
+    objekt = Kategori.objects
+    #objekt = Transaktion.objects
+
+    def get_queryset(self):
+        pass
+
+    def get_context_data(self, **kwargs):
+        context = super(StatistikView, self).get_context_data(**kwargs)
+
+        try:
+            antal_dagar = int(self.request.GET.get('dagar'))
+        except:
+            antal_dagar = 30
+
+        try:
+            startdatum = self.request.GET.get('startdatum')
+        except:
+            startdatum = None
+
+        try:
+            slutdatum = self.request.GET.get('slutdatum')
+        except:
+            slutdatum = None
+
+        if startdatum != None and startdatum != '':
+            first_date = startdatum
+        else:
+            first_date = datetime.today() - timedelta(days=antal_dagar)
+
+        if slutdatum != None and slutdatum != '':
+            last_date = slutdatum
+        else:
+            last_date = datetime.today()
+
+        q = Transaktion.objects.filter(reskontradatum__gte=first_date).filter(reskontradatum__lte=last_date).order_by('-reskontradatum')
+
+#        katsumma = dict()
+        katsumma = list()
+        for k in Kategori.objects.all():
+            summa = q.filter(kategori=k).aggregate(Sum('belopp'))['belopp__sum']
+#            katsumma[k.namn] = summa
+            katsumma.append([k.namn, summa])
+
+        katsumma.sort()
+
+        #context['summa'] = summa
+        #context['kategorier'] = Kategori.objects.all()
+
+        context['katsumma'] = katsumma
+        context['startdatum'] = first_date
+        context['slutdatum'] = last_date
+        context['totalsumma'] = q.filter(belopp__lte=0).aggregate(Sum('belopp'))['belopp__sum']
         return context
 
 class KategoriView(IndexView):

@@ -79,13 +79,13 @@ WSGI_APPLICATION = 'ekonomi.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'mysql.connector.django',
+        #'ENGINE': 'mysql.connector.django',
         #'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'django_db',
+        #'NAME': 'django_db',
         'USER': 'root',
         'PASSWORD': 'root',
-        #'ENGINE': 'django.db.backends.sqlite3',
-        #'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
 
@@ -93,7 +93,8 @@ DATABASES = {
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+#LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'sv-se'
 
 TIME_ZONE = 'UTC'
 

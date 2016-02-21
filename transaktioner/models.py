@@ -40,12 +40,12 @@ class Underkategori(models.Model):
     kategori = models.ForeignKey('Kategori')
 
     def __str__(self):
-        return '%s' % self.namn
+        return '%s/%s' % (self.kategori, self.namn)
 
 class Sokord(models.Model):
     sokord = models.CharField(max_length=20, unique=True)
     kategori = models.ForeignKey('Kategori')
-    underkategori = models.ForeignKey('Underkategori', null=True)
+    underkategori = models.ForeignKey('Underkategori', null=True, blank=True)
 
     def __str__(self):
         return '%s: %s' % (self.sokord, self.kategori)

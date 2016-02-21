@@ -107,3 +107,45 @@ form.updateform label {
 	width: 200px;
 	vertical-align: top;
 }
+
+table.statistik {
+	font-family: arial;
+	background-color: #CDCDCD;
+	margin: 10px 0pt 15px;
+	font-size: 14pt;
+	width: 100%;
+	text-align: left;
+}
+
+table.statistik thead tr th, table.statistik tfoot tr th {
+	background-color: #E6EEEE;
+	border: 1px solid #FFF;
+	font-size: 18pt;
+	padding: 4px;
+}
+
+table.statistik thead tr .header {
+	cursor: pointer;
+}
+
+table.statistik tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFF;
+	vertical-align: top;
+}
+
+table.statistik tbody tr.odd td {
+	background-color: #F0F0F6;
+}
+
+table.statistik thead tr .headerSortDown, table.statistik thead tr .headerSortUp {
+	background-color: #8dbdd8;
+}
+
+table.statistik tbody tr.hover td {
+	background-color: #c0c0c0;
+}
+
+table.statistik tr.hover {
+}

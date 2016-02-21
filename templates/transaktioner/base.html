@@ -49,10 +49,21 @@
 				</ul>
 
 				<h1>Tid</h1>
+				<form action="" method="GET">
+					<input type="text" name="startdatum" value="{{ startdatum|date:'Y-m-d' }}" /><br />
+					<input type="text" name="slutdatum" value="{{ slutdatum|date:'Y-m-d' }}" /><br />
+					<input type="submit" /><br />
+				</form>
+				
 				<ul>
 					<li><a href="?dagar=7">En vecka</a></li>
 					<li><a href="?dagar=30">En månad</a></li>
 					<li><a href="?dagar=60">Två månader</a></li>
+				</ul>
+
+				<h1>Actions</h1>
+				<ul>
+					<li><a href="{% url 'transaktioner:statistik' %}">Statistik</a></li>
 				</ul>
 
 			{% endblock %}

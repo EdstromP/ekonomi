@@ -4,8 +4,10 @@ from .models import Transaktion, Kategori, Underkategori, Sokord
 
 
 class TransaktionAdmin(admin.ModelAdmin):
-    list_display = ('reskontradatum', 'transaktionsdatum',
-            'text', 'belopp', 'kommentar')
+    list_display = ('transaktionsdatum','reskontradatum', 
+            'text', 'belopp', 'kategori', 'underkategori', 'kommentar')
+
+    list_filter = ('kategori',)
 
 class SokordAdmin(admin.ModelAdmin):
     list_display = ('sokord', 'kategori', 'underkategori')
