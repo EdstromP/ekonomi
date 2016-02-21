@@ -1,0 +1,35 @@
+{% extends "transaktioner/base.html" %}
+{% load staticfiles %}
+{% load humanize %}
+
+	{% block sidebar %}
+	{{ block.super }}
+	{% endblock %}
+
+	{% block content %}
+
+			<table id="statistik1" class="statistik">
+				<thead>
+					<tr>
+						<th>Kategori</th>
+						<th>Summa</th>
+					</tr>
+				</thead>
+				<tbody>
+				{% for kategori, summa in katsumma %}
+					<tr{% cycle ' class="odd"' '' %}>
+						<td>{{ kategori }}</td>
+						<td>{{ summa|floatformat:0|intcomma }} kr</td>
+					</tr>
+				{% endfor %}
+				</tbody>
+				<tfoot>
+					<tr>
+						<th>Total</th>
+						<th>{{ totalsumma|floatformat:0|intcomma }} kr</th>
+					</tr>
+				</tfoot>
+			</table>
+
+
+	{% endblock %}
