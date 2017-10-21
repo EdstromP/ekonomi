@@ -1,4 +1,4 @@
-from django.template import Library, Node, resolve_variable
+from django.template import Library, Node, Variable
 
 register = Library()
 
@@ -7,7 +7,7 @@ class AddGetParameter(Node):
         self.values = values
 
     def render(self, context):
-        req = resolve_variable('request', context)
+        req = Variable('request').resolve(context)
         params = req.GET.copy()
         for key, values in self.values.items():
             params[key] = values.resolve(context)
